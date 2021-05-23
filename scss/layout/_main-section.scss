@@ -1,0 +1,15 @@
+.main-section {
+  background-image: url("../../img/post-image.jpg"); 
+  height: 600px; 
+  background-position: center; 
+  background-repeat: no-repeat; 
+  background-size: cover; 
+
+    .contenedor__centrado {
+        color: #fff;
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+    }
+}
